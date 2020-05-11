@@ -1,0 +1,21 @@
+{
+    "name": "techbertu/module-offlinepayment",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "TechBertu",
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "TechBertu\\OfflinePayment\\": ""
+        }
+    }
+}
