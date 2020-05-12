@@ -3,7 +3,7 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Bitsbytes\RevolutPayment\Model\Payment;
+namespace Techbertu\OfflinePayment\Model\Payment;
 
 use Magento\Checkout\Model\ConfigProviderInterface;
 use Magento\Framework\Escaper;
