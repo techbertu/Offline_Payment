@@ -10,7 +10,6 @@
         <arguments>
             <argument name="configProviders" xsi:type="array">
                 <item name="offline_payment_instructions_config_provider" xsi:type="object">TechBertu\OfflinePayment\Model\Payment\InstructionsConfigProvider</item>
-                <item name="offline_payment_checkmo_config_provider" xsi:type="object">Magento\OfflinePayments\Model\CheckmoConfigProvider</item>
             </argument>
         </arguments>
     </type>
