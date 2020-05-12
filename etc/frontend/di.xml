@@ -9,7 +9,7 @@
     <type name="Magento\Checkout\Model\CompositeConfigProvider">
         <arguments>
             <argument name="configProviders" xsi:type="array">
-                <item name="offline_payment_instructions_config_provider" xsi:type="object">TechBertu\OfflinePayment\Model\Payment\InstructionsConfigProvider</item>
+                <item name="tbcustom_payment_instructions_config_provider" xsi:type="object">TechBertu\OfflinePayment\Model\Payment\InstructionsConfigProvider</item>
             </argument>
         </arguments>
     </type>
